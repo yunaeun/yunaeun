@@ -14,22 +14,6 @@
 </div>
 
 
-<br>
-<h2 align="center">SubTechs</h2>
-    <details>
-    <summary align="center"> look it !</summary>
-<p align="center">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white" /></a>&nbsp
-    <br>
-    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" /></a>&nbsp
-    <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white" /></a>&nbsp
-    <img
-        src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" /></a>&nbsp
-    <br>
-</p>
-</details>
 
     
 <h2 align="center">Techs</h2>
